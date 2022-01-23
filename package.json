@@ -1,0 +1,14 @@
+{
+  "name": "javascripts-desde-cero",
+  "version": "1.1.1",
+  "description": "mi-respositorio",
+  "main": "Arrays.js",
+  "scripts": {
+   
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "josue",
+  "license": "ISC"
+}
